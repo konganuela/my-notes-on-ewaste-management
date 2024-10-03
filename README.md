@@ -13,12 +13,16 @@ E-waste is classified into different groups and some include the following;
 1.	Temperature change equipments
    
 2.	Screen, monitors
-   
-3. Lamps i.e. LED lamps
+
+3.	Lamps i.e. LED lamps
  
 4.	Large equipment’s like washing machines, freezers
 	
 5.	Small IT and telecommunication equipments( computers, laptops)
+
+ As south Sudan emerges as one of the deeloping countries, it faces challenges of electronic waste management hence a concern in the global aspect. How do individuals make it a point to ensure proper electronic waste management in their communities starting at the household level.
+
+ 
 
 
 
